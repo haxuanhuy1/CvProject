@@ -1,0 +1,30 @@
+.giamgia {
+    width: 100%;
+    height: 70px;
+    background-color: red;
+   padding-top: 50px;
+   
+    display: flex;
+    text-align: center;
+    font-size: 35px;
+    .giamgia2 {
+        transform: translateY(-7px);
+        padding-left: 40px;
+        display: flex;
+
+    }
+.icons {
+    transform: translateY(-33px);
+}
+    P {
+    color: yellow;
+    font-style: italic;
+    font-weight: bold;
+    transform: translateY(-40px);
+   padding-left: 50px;
+    }
+    span{
+        font-size: 14px;
+        color: yellow;
+    }
+}

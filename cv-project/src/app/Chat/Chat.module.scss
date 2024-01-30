@@ -1,0 +1,41 @@
+.chat2 {
+    position: fixed;
+    right: -2px;
+    top: 650px;
+    /* Các thuộc tính khác tùy thuộc vào ý muốn của bạn */
+    width: 50px;
+    height: 50px;
+    background-color: greenyellow;
+    padding: 10px;
+    border: 1px solid #ccc;
+    font-size: 25px;
+    border-radius: 23px;
+}
+.chat3 {
+    position: fixed;
+    right: 20px;
+    top: 400px;
+    width: 250px;
+    height: 300px;
+    background-color: white;
+    border-radius: 5px;
+.chat4 {
+   width: 100%;
+   height: 60px;
+   background-color: red;
+   border-radius: 5px;
+}
+.chat5 {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    padding-left: 4px;
+    font-size: 13px;
+}
+.chat6 {
+    top: 0px;
+    border-top: 1px solid #ccc;
+    width: 100%;
+    height: 60px;
+}
+}

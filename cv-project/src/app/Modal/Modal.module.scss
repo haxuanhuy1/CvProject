@@ -1,0 +1,38 @@
+.modal1 {
+    // display: none;
+  
+  display: flex;
+
+   position: fixed;
+   top: 0%;
+   left: 0%;
+   width: 100%;
+   height: 100%;
+   background-color: rgba(0, 0, 0, 0.5);
+   button {
+    transform: translateX(870px);
+    height: 30px;
+    width: 70px;
+    margin-top: 145px;
+    border: white;
+    background-color: yellow;
+    border-radius: 5px;
+   }
+   img {
+    width: 500px;
+    height: 600px;
+    left: 40%;
+    margin-top: 118px;
+    margin-left: 370px;
+   }
+   .modal2 {
+    position: absolute;
+    // top: 50%;
+    // left: 50%;
+     left: 40%;
+     top: 20%;
+    background-color: #ccc;
+    width: 30%;
+    height: 60%;
+   }
+}

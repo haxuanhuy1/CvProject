@@ -1,0 +1,48 @@
+.imgs {
+    height: 180px;
+   margin-left: 5px;
+   width: 200px;
+  border-radius: 3px;
+  
+}
+.giamgia3 {
+  height: 350px;
+  
+  display: flex;
+
+}
+.giamgia4 {
+    background-color: white;
+    margin-left: 5px;
+    text-align: center;
+    height: 200px;
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+    p {
+        font-size: 15px;
+        text-decoration: none;
+    }
+    span {
+        color: red;
+        text-decoration: none;
+    }
+
+}
+.giamgia5 {
+    display: flex;
+    width: 75%;
+    height: 20px;
+    background-color: blue;
+    justify-content: space-evenly;
+    p {
+        color: white;
+        text-decoration: none;
+    }
+}
+.prev {
+    margin-left: -70px;
+}
+.next {
+    margin-right: -72px;
+}

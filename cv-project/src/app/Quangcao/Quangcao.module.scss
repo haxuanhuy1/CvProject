@@ -1,0 +1,136 @@
+.row1 {
+    background-color: #ccc;
+    height: 230px;
+    background-color: #ccc;
+   padding-left: 10px;
+    img {
+        width: 98%;
+        height: 100%;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 12px;
+    }
+}
+.pcgaming {
+    background-color: #ccc;
+    height: 2200px;
+    .pcgaming1 {
+        background-color: white;
+        width: 98.5%;
+        height: 521px;
+        padding-left: 10px;
+        margin-left: 10px;
+        margin-right: 10px;
+        border-radius: 10px;
+
+    }
+    .pcgaming2 {
+        background-color: white;
+        width: 98.5%;
+        height: 521px;
+        padding-left: 10px;
+        margin-left: 10px;
+        margin-right: 10px;
+        margin-top: 20px;
+        border-radius: 7px;
+    }
+    .headerPc {
+        display: flex;
+        padding-top: 20px;
+        padding-left: 20px;
+        padding-bottom: 30px;
+    }
+    .pcbanchay {
+        h3 {
+            font-size: 22px;
+            font-weight: 640;
+        }
+        padding-right: 200px;
+    }
+    .tragop {
+        h3{
+            
+            font-size: 18px;
+            font-weight: 660;
+            
+        }
+        padding-top: 6px;
+        display: flex;
+        width: 150px;
+        justify-content: space-around;
+    }
+    .tragop2 {
+        h3{
+            
+            font-size: 18px;
+            font-weight: 660;
+            
+        }
+        padding-top: 6px;
+        display: flex;
+        width: 200px;
+        justify-content: space-around;
+    }
+    
+}
+.danhmucsanpham {
+    background-color: white;
+     height: 350px;
+     width: 98.5%;
+     border-radius: 10px;
+     margin-top: 20px;
+     margin-left: 10px;
+     .sanpham {
+        padding-top: 20px;
+        padding-left: 10px;
+        img {
+            width: 84px;
+            height: 84px;
+            p {
+                padding-left: 5px;
+            }
+        }
+     }
+}
+.tintuc{
+    background-color: white;
+    height: 500px;
+    width: 98.5%;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 10px;
+    .tintuc1 {
+        width: 100%;
+        height: 225px;
+        border-bottom: 1px solid #ccc;
+
+        h3 {
+            padding: 10px;
+            font-size: 18px;
+            font-weight: 600;
+        }
+        .tintucrow{
+            padding-left: 10px;
+            img {
+               width:276px;
+               height: 140px; 
+               border-radius: 5px;
+            }
+        }
+    }
+    .tintuc2 {
+        width: 100%;
+        height: 275px;
+        padding-left: 10px;
+        h3 {
+            padding: 10px;
+            font-size: 18px;
+            font-weight: 600;
+        }
+        img {
+            width: 276px;
+            height: 140px;
+            border-radius: 5px;
+        }
+    }
+}
